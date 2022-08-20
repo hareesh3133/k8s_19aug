@@ -16,6 +16,6 @@ spec:
      spec:
       containers:
       - name: mynginx-container
-        image:  nginx
+        image:  hari9331/hari10aug
         ports:
         - containerPort: 8080
